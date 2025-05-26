@@ -1,6 +1,7 @@
 # CollogeTips-photo-gallery
-A stylish, interactive, and responsive photo gallery inspired by the CollegeTips homepage and its creative vibes. Built using **HTML + CSS only**, it showcases various categories like:
--🤝 Team Vibes  
+A stylish, interactive, and responsive photo gallery inspired by the CollegeTips homepage and its creative vibes. Built using **HTML + CSS only**,
+it showcases various categories like:
+ -🤝 Team Vibes  
 - 🎨 Creative Campaigns  
 - 🥳 Work Hard, Play Hard  
 - 🎥 Behind-The-Scenes
@@ -28,8 +29,11 @@ A stylish, interactive, and responsive photo gallery inspired by the CollegeTips
 ## 🚀 Getting Started
 To run the project locally:
 bash
+
 git clone https://github.com/SandhyaMadhunagula/CollogeTips-photo-gallery.git
+
 cd CollogeTips-photo-gallery
+
 open index.html
 
 📢 Credits:
