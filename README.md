@@ -13,10 +13,15 @@ A stylish, interactive, and responsive photo gallery inspired by the CollegeTips
   # 📁 Folder Structure
   📂 college-tips-photo-gallery
 ├── index.html
+
 ├── stylec.css
+
 ├── /images
+
 │ ├── team1.png
+
 │ ├── play1.png
+
 │ └── ...
 
 ## 🚀 Getting Started
@@ -26,6 +31,7 @@ git clone https://github.com/SandhyaMadhunagula/CollogeTips-photo-gallery.git
 cd CollogeTips-photo-gallery
 open index.html
 
-📢 Credits
+📢 Credits:
+
 Inspired by CollegeTips.in and this GitHub repo.
 
