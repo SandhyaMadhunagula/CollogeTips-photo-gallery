@@ -7,11 +7,12 @@ A stylish, interactive, and responsive photo gallery inspired by the CollegeTips
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3 (Grid, Media Queries)
+- CSS3 
 - JavaScript (for full-screen image viewer)
 
   # 📁 Folder Structure
-  📂 college-tips-photo-gallery
+  📂 CollogeTips-photo-gallery
+  
 ├── index.html
 
 ├── stylec.css
